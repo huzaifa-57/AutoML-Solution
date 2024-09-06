@@ -44,7 +44,7 @@ To setup a virtual environment you can use either `conda` or `virtualenv`
   ```commandline
   pip install -r requirements.txt
   ```
-### 4. Running the Application
+## Running the Application
 - After successful installation of packages run the command below to start our project
   ```commandline
   python manager.py
